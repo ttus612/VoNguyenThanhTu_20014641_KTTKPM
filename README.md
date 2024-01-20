@@ -5,7 +5,7 @@ Bài tập thực hành tuần 1
 
 - ✍ I'm a student of: [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/).
 - ✍ Subject : Kiến trúc thiết kế phần mềm
-- ✍ Content: Nội dung thực hành tuần
+- ✍ Content: Nội dung thực hành hàng tuần
 
 <br />
 
