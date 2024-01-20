@@ -5,7 +5,7 @@ Bài tập thực hành tuần 1
 
 - ✍ I'm a student of: [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/).
 - ✍ Subject : Kiến trúc thiết kế phần mềm
-- ✍ Content: Nội dung bài tập week 1
+- ✍ Content: Nội dung bài tập week 1 - Tạo ra 2 service User và Product. Và dùng Postman để gọi API User và Product
 
 <br />
 
