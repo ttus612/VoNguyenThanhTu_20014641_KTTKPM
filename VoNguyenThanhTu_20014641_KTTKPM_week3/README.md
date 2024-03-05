@@ -5,7 +5,7 @@ Bài tập thực hành tuần 3
 
 - ✍ I'm a student of: [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/).
 - ✍ Subject : Kiến trúc thiết kế phần mềm
-- ✍ Content: Nội dung bài tập week 3 - JWT -PARSER
+- ✍ Content: Nội dung bài tập week 3 - JWT -PARSER - LOGIN - REGISTRY
 <br />
 
 
